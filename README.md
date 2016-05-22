@@ -1,2 +1,2 @@
 # simple-tetris
-Tetris written in C#
+Tetris written in C# within one file
